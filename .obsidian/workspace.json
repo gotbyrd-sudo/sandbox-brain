@@ -28,8 +28,8 @@
               "type": "markdown",
               "state": {
                 "file": "prototypes/Untitled.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Untitled"
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pm-tools/templates/prompt-library.md",
+                "file": "prototypes/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for prompt-library"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -222,11 +222,11 @@
   },
   "active": "37af4865e817eefa",
   "lastOpenFiles": [
+    "pm-tools/templates/prompt-library.md",
+    "pm-tools/templates/prototype-log.md",
+    "prototypes/Untitled.md",
     "Welcome.md",
     "Untitled.base",
-    "prototypes/Untitled.md",
-    "pm-tools/templates/prototype-log.md",
-    "pm-tools/templates/prompt-library.md",
     "Untitled",
     "pm-tools/templates",
     "homelab",
