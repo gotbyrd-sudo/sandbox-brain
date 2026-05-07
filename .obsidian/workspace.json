@@ -201,10 +201,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "56c12e0e17be9bbb",
+  "active": "d7daac8b5f1b2757",
   "lastOpenFiles": [
-    "prototypes/Untitled.md",
+    "().md",
     "prototypes/FedRAMP Checklist.md",
+    "prototypes/Untitled.md",
     "pm-tools/templates/prototype-log.md",
     "Untitled.base",
     "pm-tools/templates/prompt-library.md",
